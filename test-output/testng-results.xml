@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-18T22:43:35 IST" name="Default suite" finished-at="2021-11-18T22:43:40 IST" duration-ms="5331">
+  <suite started-at="2021-11-21T13:49:52 IST" name="Default suite" finished-at="2021-11-21T13:49:59 IST" duration-ms="6256">
     <groups>
     </groups>
-    <test started-at="2021-11-18T22:43:35 IST" name="Default test" finished-at="2021-11-18T22:43:40 IST" duration-ms="5331">
-      <class name="practise.RestAssured2.Single_User_GET_Request">
-        <test-method signature="verifyHeaderForRequest()[pri:0, instance:practise.RestAssured2.Single_User_GET_Request@5ace1ed4]" started-at="2021-11-18T22:43:35 IST" name="verifyHeaderForRequest" finished-at="2021-11-18T22:43:40 IST" duration-ms="5085" status="PASS">
+    <test started-at="2021-11-21T13:49:52 IST" name="Default test" finished-at="2021-11-21T13:49:59 IST" duration-ms="6256">
+      <class name="practise.RestAssured2.List_Resources_GET_Request">
+        <test-method is-config="true" signature="beforeRequest()[pri:0, instance:practise.RestAssured2.List_Resources_GET_Request@1623134f]" started-at="2021-11-21T13:49:52 IST" name="beforeRequest" finished-at="2021-11-21T13:49:57 IST" duration-ms="4517" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyHeaderForRequest -->
-        <test-method signature="verifyStatusCodeForRequest()[pri:0, instance:practise.RestAssured2.Single_User_GET_Request@5ace1ed4]" started-at="2021-11-18T22:43:40 IST" name="verifyStatusCodeForRequest" finished-at="2021-11-18T22:43:40 IST" duration-ms="128" status="PASS">
+        </test-method> <!-- beforeRequest -->
+        <test-method signature="verifyResponseBodyForRequest()[pri:0, instance:practise.RestAssured2.List_Resources_GET_Request@1623134f]" started-at="2021-11-21T13:49:57 IST" name="verifyResponseBodyForRequest" finished-at="2021-11-21T13:49:59 IST" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResponseBodyForRequest -->
+        <test-method signature="verifyStatusCodeForRequest()[pri:0, instance:practise.RestAssured2.List_Resources_GET_Request@1623134f]" started-at="2021-11-21T13:49:59 IST" name="verifyStatusCodeForRequest" finished-at="2021-11-21T13:49:59 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStatusCodeForRequest -->
-      </class> <!-- practise.RestAssured2.Single_User_GET_Request -->
+      </class> <!-- practise.RestAssured2.List_Resources_GET_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

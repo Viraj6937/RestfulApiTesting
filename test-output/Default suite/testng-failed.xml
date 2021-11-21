@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practise.RestAssured2.Single_User_GET_Request">
+      <class name="practise.RestAssured2.List_Resources_GET_Request">
         <methods>
-          <include name="verifyResponseBodyValueForRequest"/>
+          <include name="verifyResponseBodyForRequest"/>
+          <include name="beforeRequest"/>
         </methods>
-      </class> <!-- practise.RestAssured2.Single_User_GET_Request -->
+      </class> <!-- practise.RestAssured2.List_Resources_GET_Request -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

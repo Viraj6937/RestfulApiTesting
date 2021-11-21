@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="practise.RestAssured2.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test Single_User_GET_Request(failed)">
+    <classes>
+      <class name="practise.RestAssured2.Single_User_GET_Request">
+        <methods>
+          <include name="beforeRequest"/>
+          <include name="verifyResponseBodyForRequest"/>
+        </methods>
+      </class> <!-- practise.RestAssured2.Single_User_GET_Request -->
+    </classes>
+  </test> <!-- Test Single_User_GET_Request(failed) -->
+</suite> <!-- Failed suite [Suite] -->

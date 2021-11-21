@@ -1,0 +1,112 @@
+16:16:57.779 [main] INFO  Base.Base - base uri is been provided
+16:16:58.120 [main] INFO  Base.Base - request object is been created
+16:17:00.913 [main] INFO  Base.Base - response object is been created
+16:35:53.273 [main] INFO  Base.Base - base uri is been provided
+16:35:53.620 [main] INFO  Base.Base - request object is been created
+16:35:56.261 [main] INFO  Base.Base - response object is been created
+16:35:56.415 [main] INFO  Base.Base - content-type response header value for request is:application/json; charset=utf-8
+16:35:56.415 [main] INFO  Base.Base - server header value for request iscloudflare
+16:35:57.826 [main] INFO  Base.Base - response body value for request is:2
+16:35:57.837 [main] INFO  Base.Base - the status code for request is:200
+16:35:58.753 [main] INFO  Base.Base - base uri is been provided
+16:35:58.754 [main] INFO  Base.Base - request object is been created
+16:35:58.883 [main] INFO  Base.Base - response object is been created
+16:35:58.894 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+16:35:58.895 [main] INFO  Base.Base - server header value for request is:cloudflare
+16:35:58.902 [main] INFO  Base.Base - status code for request is:200
+10:52:46.245 [main] INFO  Base.Base - base uri is been provided
+10:52:46.897 [main] INFO  Base.Base - request object is been created
+10:53:11.861 [main] INFO  Base.Base - base uri is been provided
+10:53:11.863 [main] INFO  Base.Base - request object is been created
+11:04:26.791 [main] INFO  Base.Base - base uri is been provided
+11:04:27.148 [main] INFO  Base.Base - request object is been created
+11:04:31.041 [main] INFO  Base.Base - response object is been created
+11:04:31.176 [main] INFO  Base.Base - content-type response header value for request is:application/json; charset=utf-8
+11:04:31.177 [main] INFO  Base.Base - server header value for request iscloudflare
+11:04:32.679 [main] INFO  Base.Base - response body value for request is:2
+11:04:32.687 [main] INFO  Base.Base - the status code for request is:200
+11:04:33.684 [main] INFO  Base.Base - base uri is been provided
+11:04:33.686 [main] INFO  Base.Base - request object is been created
+11:04:34.020 [main] INFO  Base.Base - response object is been created
+11:04:34.029 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:04:34.030 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:04:34.123 [main] INFO  Base.Base - status code for request is:200
+11:04:57.515 [main] INFO  Base.Base - base uri is been provided
+11:04:57.890 [main] INFO  Base.Base - request object is been created
+11:05:00.749 [main] INFO  Base.Base - response object is been created
+11:05:00.907 [main] INFO  Base.Base - content-type response header value for request is:application/json; charset=utf-8
+11:05:00.908 [main] INFO  Base.Base - server header value for request iscloudflare
+11:05:02.287 [main] INFO  Base.Base - response body value for request is:2
+11:05:02.304 [main] INFO  Base.Base - the status code for request is:200
+11:05:03.313 [main] INFO  Base.Base - base uri is been provided
+11:05:03.314 [main] INFO  Base.Base - request object is been created
+11:05:03.697 [main] INFO  Base.Base - response object is been created
+11:05:03.705 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:05:03.706 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:05:03.762 [main] INFO  Base.Base - status code for request is:200
+11:27:16.532 [main] INFO  Base.Base - base uri is been provided
+11:27:16.856 [main] INFO  Base.Base - request object is been created
+11:27:19.662 [main] INFO  Base.Base - response object is been created
+11:27:19.806 [main] INFO  Base.Base - content-type response header value for request is:application/json; charset=utf-8
+11:27:19.806 [main] INFO  Base.Base - server header value for request iscloudflare
+11:27:21.236 [main] INFO  Base.Base - response body value for request is:2
+11:27:21.250 [main] INFO  Base.Base - the status code for request is:200
+11:27:22.178 [main] INFO  Base.Base - base uri is been provided
+11:27:22.183 [main] INFO  Base.Base - request object is been created
+11:27:22.513 [main] INFO  Base.Base - response object is been created
+11:27:22.523 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:27:22.523 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:27:22.535 [main] INFO  Base.Base - status code for request is:200
+11:42:21.574 [main] INFO  Base.Base - base uri is been provided
+11:42:21.911 [main] INFO  Base.Base - request object is been created
+11:42:24.645 [main] INFO  Base.Base - response object is been created
+11:42:24.728 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:42:24.729 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:42:26.302 [main] INFO  Base.Base - status code for request is:200
+11:48:44.647 [main] INFO  Base.Base - base uri is been provided
+11:48:44.937 [main] INFO  Base.Base - request object is been created
+11:48:47.729 [main] INFO  Base.Base - response object is been created
+11:48:47.819 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:48:47.819 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:48:49.334 [main] INFO  Base.Base - status code for request is:200
+11:52:20.360 [main] INFO  Base.Base - base uri is been provided
+11:52:20.672 [main] INFO  Base.Base - request object is been created
+11:52:23.495 [main] INFO  Base.Base - response object is been created
+11:52:25.198 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:52:25.199 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:52:25.215 [main] INFO  Base.Base - status code for request is:200
+11:56:38.308 [main] INFO  Base.Base - base uri is been provided
+11:56:38.615 [main] INFO  Base.Base - request object is been created
+11:56:41.470 [main] INFO  Base.Base - response object is been created
+11:56:43.178 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+11:56:43.178 [main] INFO  Base.Base - server header value for request is:cloudflare
+11:56:43.190 [main] INFO  Base.Base - status code for request is:200
+12:12:35.629 [main] INFO  Base.Base - base uri is been provided
+12:12:35.930 [main] INFO  Base.Base - request object is been created
+12:12:38.880 [main] INFO  Base.Base - response object is been created
+12:12:40.716 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+12:12:40.719 [main] INFO  Base.Base - server header value for request is:cloudflare
+12:12:40.733 [main] INFO  Base.Base - status code for request is:200
+12:56:07.048 [main] INFO  Base.Base - base uri is been provided
+12:56:07.365 [main] INFO  Base.Base - request object is been created
+12:56:36.729 [main] INFO  Base.Base - base uri is been provided
+12:56:37.017 [main] INFO  Base.Base - request object is been created
+13:13:42.488 [main] INFO  Base.Base - base uri is been provided
+13:13:42.844 [main] INFO  Base.Base - request object is been created
+13:13:45.873 [main] INFO  Base.Base - response object is been created
+13:13:47.586 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+13:13:47.590 [main] INFO  Base.Base - server header value for request is:cloudflare
+13:13:47.605 [main] INFO  Base.Base - status code for request is:200
+13:32:09.612 [main] INFO  Base.Base - base uri is been provided
+13:32:10.015 [main] INFO  Base.Base - request object is been created
+13:32:12.929 [main] INFO  Base.Base - response object is been created
+13:32:13.067 [main] INFO  Base.Base - content-type response header value for request is:application/json; charset=utf-8
+13:32:13.068 [main] INFO  Base.Base - server header value for request iscloudflare
+13:32:14.682 [main] INFO  Base.Base - response body value for request is:2
+13:32:14.701 [main] INFO  Base.Base - the status code for request is:200
+13:32:15.714 [main] INFO  Base.Base - base uri is been provided
+13:32:15.715 [main] INFO  Base.Base - request object is been created
+13:32:15.831 [main] INFO  Base.Base - response object is been created
+13:32:15.871 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
+13:32:15.877 [main] INFO  Base.Base - server header value for request is:cloudflare
+13:32:15.882 [main] INFO  Base.Base - status code for request is:200
