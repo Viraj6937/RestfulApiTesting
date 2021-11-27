@@ -21,7 +21,6 @@ public class TC002_RestAssured_POST_Request {
 		RequestSpecification httprequest = RestAssured.given();
 		
 		// Json Object
-		  
 		  JSONObject requestparam = new JSONObject();
 		  requestparam.put("name","Viraj");
 		  requestparam.put("job","Software Test Engineer");

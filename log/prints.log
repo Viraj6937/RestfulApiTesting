@@ -110,3 +110,11 @@
 13:32:15.871 [main] INFO  Base.Base - content-type header value for request is:application/json; charset=utf-8
 13:32:15.877 [main] INFO  Base.Base - server header value for request is:cloudflare
 13:32:15.882 [main] INFO  Base.Base - status code for request is:200
+18:02:51.889 [main] INFO  Base.Base - base uri is been created
+18:02:52.252 [main] INFO  Base.Base - request object is been created
+18:02:55.372 [main] INFO  Base.Base - response object is been created
+18:02:55.530 [main] INFO  Base.Base - status code for request is 204
+18:03:37.984 [main] INFO  Base.Base - base uri is been created
+18:03:38.322 [main] INFO  Base.Base - request object is been created
+18:03:41.509 [main] INFO  Base.Base - response object is been created
+18:03:41.636 [main] INFO  Base.Base - status code for request is 204

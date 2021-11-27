@@ -4,14 +4,14 @@
   <listeners>
     <listener class-name="practise.RestAssured2.Listeners"/>
   </listeners>
-  <test thread-count="5" name="Test Single_User_GET_Request(failed)">
+  <test thread-count="5" name="Test Register_POST_Request(failed)">
     <classes>
-      <class name="practise.RestAssured2.Single_User_GET_Request">
+      <class name="RegisterTest.Register_POST_Request">
         <methods>
-          <include name="beforeRequest"/>
-          <include name="verifyResponseBodyForRequest"/>
+          <include name="verifyStatusCode"/>
+          <include name="beforeTest"/>
         </methods>
-      </class> <!-- practise.RestAssured2.Single_User_GET_Request -->
+      </class> <!-- RegisterTest.Register_POST_Request -->
     </classes>
-  </test> <!-- Test Single_User_GET_Request(failed) -->
+  </test> <!-- Test Register_POST_Request(failed) -->
 </suite> <!-- Failed suite [Suite] -->

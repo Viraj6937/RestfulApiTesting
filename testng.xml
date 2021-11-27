@@ -8,7 +8,7 @@
   
 </listeners>
 
-  <test thread-count="5" name="Test List_Of_Users_GET_Request">
+<!--   <test thread-count="5" name="Test List_Of_Users_GET_Request">
     <classes>
       <class name="practise.RestAssured2.List_Of_Users_GET_Request"/>
     </classes>
@@ -31,6 +31,24 @@
    <classes>
      <class name="practise.RestAssured2.List_Resources_GET_Request"/>
    </classes>
+  </test>
+  
+  <test name="Test Create_User_POST_Request">
+     <classes>
+        <class name="practise.RestAssured2.Create_User_POST_Request"/>
+     </classes>
+  </test>
+  
+  <test name="Test Delete_User_Request">
+    <classes>
+       <class name="practise.RestAssured2.Delete_User_Request"/>
+    </classes>
+  </test> -->
+  
+  <test name="Test Register_POST_Request">
+    <classes>
+       <class name="RegisterTest.Register_POST_Request"/>
+    </classes>
   </test>
   
   
